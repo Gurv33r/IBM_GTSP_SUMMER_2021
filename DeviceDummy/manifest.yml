@@ -1,0 +1,6 @@
+---
+applications:
+- name: write-2-cloudant-test-go
+  random-route: true
+  memory: 128M
+  buildpack: go_buildpack
